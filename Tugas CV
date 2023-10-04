@@ -1,0 +1,35 @@
+<!doctype html>
+<html> 
+ <head> 
+  <meta cahrset="utf-8"> 
+  <title>Curriculum vitae</title> 
+ </head> 
+ <body> 
+  <h1 align="center">CURRICULUM VITAE</h1> 
+  <hr> 
+  <img align="right" src="/storage/emulated/0/DCIM/Restored/IMG_20220626_170425.jpg" width="200" alt=""/>
+  <h1>DATA PRIBADI</h1> 
+  <h2>Nama: Kafi Rijal Rabbani Sopian</h2> 
+  <h2>Tempat,tanggal lahir: Depok, 6 mei 2005</h2> 
+  <h2>Jenis kelamin: Laki-laki</h2> 
+  <h2>Agama: Islam</h2> 
+  <h2>Alamat: Jalan Lapangan Member Rt 04 Rw 01 no 2A Sukmajaya Depok</h2> 
+  <h2>Nomor Hp: 085156629197</h2> 
+  <h2>Email: kafi23151ti@student.nurulfikri.ac.id</h2> 
+  <hr>
+  <h1>DATA PENDIDIKAN</h1> 
+  <h2>SD: SD Negeri Sukamaju 9</h2> 
+  <h2>SMP: SMP PGRI 1 Depok</h2> 
+  <h2>SMK: SMK Negeri 3 Depok</h2> 
+  <hr>
+  <h1>KEMAMPUAN</h1> 
+  <ul> 
+   <li><h2>ngoding dengan bahasa html</h2></li> 
+   <li><h2>desain</h2></li> 
+   <li><h2>mengoprasikan Microsoft office</h2></li> 
+  </ul> 
+  <hr>
+  <h1>PENGALAMAN</h1> 
+  <h2>Fresh Graduate</h2> 
+ </body>
+</html>
